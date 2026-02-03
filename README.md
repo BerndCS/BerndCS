@@ -13,7 +13,7 @@
 - Website: [ci-analytics.org](https://ci-analytics.org)
 
 **🎮 Game-Development & Community Projects** @ [BM Software / BOOM Network](https://github.com/Minecraft-BOOM)
-- Minecraft-Server-Management & Feature-Developement
+- Minecraft-Server-Management & Feature-Development
 - Community-Building & Event-Promotion
 - Website: [mc-boom.de](http://mc-boom.de)
   
