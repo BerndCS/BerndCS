@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Lars (BerndCS)
 
-<!--
-**BerndCS/BerndCS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Stuttgart, Deutschland**  • [BOOM Server](http://mc-boom.de) • [CI-Analytics](https://ci-analytics.org)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 Interessen & Arbeit
+
+**📊 Data Analysis & Strategy** @ [CI-Analytics](https://github.com/CI-Analytics)
+- Dashboard-Anwendungen & Business Intelligence
+- Social Media Analytics (YouTube, Social Platforms)
+- Datenvisualisierung & KPI-Entwicklung
+- Website: [ci-analytics.org](https://ci-analytics.org)
+
+**🎮 Game-Development & Community Projects** @ [BM Software / BOOM Network](https://github.com/Minecraft-BOOM)
+- Minecraft-Server-Management & Feature-Developement
+- Community-Building & Event-Promotion
+- Website: [mc-boom.de](http://mc-boom.de)
+  
+---
+
