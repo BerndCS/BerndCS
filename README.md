@@ -1,19 +1,18 @@
 # Lars (BerndCS)
 
-**Stuttgart, Deutschland**  • [BOOM Server](http://mc-boom.de) • [CI-Analytics](https://ci-analytics.org)
+**Stuttgart, Germany** • [BOOM Server](http://mc-boom.de) • [CI-Analytics](https://ci-analytics.org)
 
 ---
 
-## Interessen & Arbeit
+## Interests & Work
 
 **Data Analysis & Strategy** @ [CI-Analytics](https://github.com/CI-Analytics)
-- Dashboard-Anwendungen & Business Intelligence
-- Social Media Analytics (YouTube, Social Platforms)
-- Datenanalyse, Visualisierung & KPI-Entwicklung
+- Dashboard applications & business intelligence
+- Social media analytics (YouTube and other social platforms)
+- Data analysis, visualization & KPI development
 
-**Game-Development & Community Projects** @ [BOOM Network](https://github.com/Minecraft-BOOM)
-- Minecraft-Server-Management & Feature-Development
-- Community-Building & Event-Promotion
-  
+**Game Development & Community Projects** @ [BOOM Network](https://github.com/Minecraft-BOOM)
+- Minecraft server management & feature development
+- Community building & event promotion
+
 ---
-
