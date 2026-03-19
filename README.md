@@ -10,7 +10,7 @@
 - Dashboard applications & business intelligence
 - Social media analytics (YouTube and other social platforms)
 - Data analysis, visualization & KPI development
-- Latest work: [activitytracker](https://github.com/BerndCS/activitytracker)
+- Latest work: [activitytracker](https://github.com/BerndCS/activitytracker) , [screenshotmanager](https://github.com/BerndCS/screenshotmanager)
 
 **Game Development & Community Projects** @ [BOOM Network](https://github.com/Minecraft-BOOM)
 - Minecraft server management & feature development
