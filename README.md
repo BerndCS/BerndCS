@@ -15,5 +15,6 @@
 **Game Development & Community Projects** @ [BOOM Network](https://github.com/Minecraft-BOOM)
 - Minecraft server management & feature development
 - Community building & event promotion
+- 📝 In active development
 
 ---
