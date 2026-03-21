@@ -17,6 +17,6 @@
 - Minecraft server management & feature development
 - Community building & event promotion
 - In active development: [Friends Update]
-- **v1.2.3** `██████████████      ` 70%
+- **v1.2.3** `███████████████     ` 75%
 
 
