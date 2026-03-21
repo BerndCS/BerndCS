@@ -20,4 +20,4 @@
 
 #### *In active development*:
   friends update » **v1.2.3** `███████████████     ` 75%  
-  wiki (website) » **v1.0.0** `██                  ` 10%
+  wiki (website)&nbsp;&nbsp; » **v1.0.0** `██                  ` 10%
