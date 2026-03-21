@@ -11,12 +11,12 @@
 - Social media analytics (YouTube and other social platforms)
 - Data analysis, visualization & KPI development
 - In active development: [activitytracker](https://github.com/BerndCS/activitytracker)
-- **v0.1** `█████             ` 30%
+- **v0.1** `██████              ` 30%
 
 ### Game Development & Community Projects @ [BOOM Network](https://github.com/Minecraft-BOOM)
 - Minecraft server management & feature development
 - Community building & event promotion
 - In active development: [Friends Update]
-- **v1.2.3** `█████████████     ` 70%
+- **v1.2.3** `██████████████      ` 70%
 
 
