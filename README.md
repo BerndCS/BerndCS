@@ -19,6 +19,5 @@
 - Community building & event promotion
 
 #### *In active development*:
-  friends update » **v1.2.3** `████████████████████` 100%  
   Improvement » **v1.2.3.2** `                    ` 0%  
   wiki (website)&nbsp;&nbsp; » **v1.0.0** `██                  ` 10%
