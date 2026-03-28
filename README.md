@@ -20,5 +20,5 @@
 
 #### *In active development*:
   Easter Update&nbsp;&nbsp; » **v1.2.4** `█                   ` 5%  
-  wiki (website)&nbsp;&nbsp;&nbsp; » **v1.0.0** `██                  ` 10%  
+  wiki (website)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; » **v1.0** `██                  ` 10%  
   website overhaul » **v2.0** `                    ` 0%
