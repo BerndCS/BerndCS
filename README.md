@@ -19,6 +19,6 @@
 - Community building & event promotion
 
 #### *In active development*:
-  Improvement&nbsp; » **v1.2.4.1** `████████████████████` 100%  
+  Improvement&nbsp; » **v1.2.4.3** `                    ` 0%  
   wiki (website)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; » **v1.0** `██                  ` 10%  
   website overhaul » **v2.0** `                    ` 0%
