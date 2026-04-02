@@ -6,7 +6,7 @@
 
 ### Data Analysis & Strategy @ [CI-Analytics](https://github.com/CI-Analytics)
 - Dashboard applications & business intelligence
-- Social media analytics (YouTube and other social platforms)
+- Social media analytics & management tools
 - Data analysis, visualization & KPI development
 
 #### *In active development*:
