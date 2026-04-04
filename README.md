@@ -11,7 +11,7 @@
 
 #### *In active development*:
   [activitytracker](https://github.com/CI-Analytics/activitytracker)&nbsp; &nbsp; &nbsp; » **v0.1** `██████              ` 30%  
-  [channelmanager](https://github.com/CI-Analytics/channelmanager) » **v0.1** `████████████        ` 60%
+  [channelmanager](https://github.com/CI-Analytics/channelmanager) » **v0.1** `████████████████    ` 80%
 
 # 
 
