@@ -10,9 +10,9 @@
 - Data analysis, visualization & KPI development
 
 #### *In active development*:
-  [activitytracker](https://github.com/CI-Analytics/activitytracker)&nbsp; &nbsp; &nbsp; » **v0.1** `██████              ` 30%  
   [channelmanager](https://github.com/CI-Analytics/channelmanagerApp) » **v0.4** `██                  ` 10%   
   [statsanalyzer](https://github.com/CI-Analytics/statsanalyzerApp)&nbsp; &nbsp; &nbsp; &nbsp; » **v0.1** `                    ` 0%   
+  [activitytracker](https://github.com/CI-Analytics/activitytracker)&nbsp; &nbsp; &nbsp; » **v0.1** `██████              ` 30%  
 
 # 
 
