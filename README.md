@@ -21,6 +21,6 @@
 - Community building & event promotion
 
 #### *In active development*:
-  NPC Movement&nbsp;» **v1.2.5** `████████████        ` 60%  
+  new market zone » **v1.3** `                    ` 0%  
   wiki (website)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; » **v1.0** `██                  ` 10%  
   website overhaul » **v2.0** `                    ` 0%
