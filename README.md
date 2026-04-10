@@ -21,6 +21,6 @@
 - Community building & event promotion
 
 #### *In active development*:
-  new market zone » **v1.3** `                    ` 0%  
+  farm spawn&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; » **v1.2.5** `                    ` 0%  
   wiki (website)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; » **v1.0** `██                  ` 10%  
   website overhaul » **v2.0** `                    ` 0%
