@@ -21,6 +21,6 @@
 - Community building & event promotion
 
 #### *In active development*:
-  chunk update&nbsp;&nbsp;&nbsp; » **v1.2.5** `████████████████████` 99%  
+  chunk update&nbsp;&nbsp;&nbsp; » **v1.2.5** `████████████████████` 100%  
   wiki (website)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; » **v1.0** `██                  ` 10%  
   website overhaul » **v2.0** `                    ` 0%
