@@ -10,7 +10,7 @@
 - Data analysis, visualization & KPI development
 
 #### *In active development*:
-  channelmanager » **v0.4** `██████              ` 30%   
+  channelmanager » **v0.4** `██████████████████  ` 90%   
   statsanalyzer&nbsp; &nbsp; &nbsp; &nbsp; » **v0.1** `                    ` 0%   
   [activitytracker](https://github.com/CI-Analytics/activitytracker)&nbsp; &nbsp; &nbsp; » **v0.1** `██████              ` 30%  
 
