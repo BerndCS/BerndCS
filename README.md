@@ -22,5 +22,5 @@
 
 #### *In active development*:
   farm update&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; » **v1.2.7** `                    ` 0%  
-  wiki (website)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; » **v1.0** `██████              ` 30%  
+  wiki (website)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; » **v1.0** `██████████          ` 50%  
   website overhaul » **v2.0** `                    ` 0%
