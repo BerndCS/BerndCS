@@ -12,7 +12,7 @@
 #### *In active development*:
   channelmanager » **v0.4** `██████████████████  ` 90%   
   statsanalyzer&nbsp; &nbsp; &nbsp; &nbsp; » **v0.1** `                    ` 0%   
-  [activitytracker](https://github.com/CI-Analytics/activitytracker)&nbsp; &nbsp; &nbsp; » **v0.1** `██████              ` 30%  
+  activitytracker&nbsp; &nbsp; &nbsp; » **v0.1** `██████              ` 30%  
 
 # 
 
