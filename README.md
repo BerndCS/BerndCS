@@ -21,6 +21,6 @@
 - Community building & event promotion
 
 #### *In active development*:
-  farm update&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; » **v1.2.7** `████                ` 20%  
+  farm update&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; » **v1.2.7** `██████████████      ` 70%  
   wiki (website)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; » **v1.0** `██████████          ` 50%  
   website overhaul » **v2.0** `                    ` 0%
