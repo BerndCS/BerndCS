@@ -10,9 +10,11 @@
 - Marketing Engineering
 
 #### *In active development*:
+  CI-Servers&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;» **Gen2** `████                ` 20%   
+  CI-Software&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;» **Gen1** `██                  ` 10%  
+     
   channelmanager » **v0.4** `██████████████████  ` 90%   
   statsanalyzer&nbsp; &nbsp; &nbsp; &nbsp; » **v0.1** `                    ` 0%   
-  CI-Servers (Gen2)&nbsp;» **v0.1** `████                ` 20%  
 
 # 
 
