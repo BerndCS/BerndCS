@@ -4,10 +4,10 @@
 
 ## Interests & Work
 
-### Data Analysis & Strategy @ [CI-Analytics](https://github.com/CI-Analytics)
-- Dashboard applications & business intelligence
-- Social media analytics & management tools
-- Data analysis, visualization & KPI development
+### Data Analysis & Content Development @ [CI-Analytics](https://github.com/CI-Analytics)
+- Management tools & Data Analytics Software Development
+- Project Development
+- Marketing Engineering
 
 #### *In active development*:
   channelmanager » **v0.4** `██████████████████  ` 90%   
@@ -16,9 +16,8 @@
 
 # 
 
-### Game Development & Community Projects @ [BOOM Network](https://github.com/Minecraft-BOOM)
+### Game Development & Community Project @ [BOOM Network](https://github.com/Minecraft-BOOM)
 - Minecraft server management & feature development
-- Community building & event promotion
 
 #### *In active development*:
   farm update&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; » **v1.2.7** `██████████████      ` 70%  
