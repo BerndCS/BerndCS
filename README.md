@@ -22,6 +22,6 @@
 - Minecraft server management & feature development
 
 #### *In active development*:
-  farm update&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; » **v1.2.7** `███████████████████ ` 95%  
+  farm update&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; » **v1.2.7** `████████████████████` 100%  
   wiki (website)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; » **v1.0** `██████████          ` 50%  
   website overhaul » **v2.0** `                    ` 0%
