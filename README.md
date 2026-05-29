@@ -22,6 +22,6 @@
 - Minecraft server management & feature development
 
 #### *In active development*:
-  next update&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; » **v1.3** `                    ` 0%  
-  wiki (website)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; » **v1.0** `██████████          ` 50%  
-  website overhaul » **v2.0** `                    ` 0%
+  treasure-update » **v1.2.8** `                    ` 0%  
+  wiki (website)&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; » **v1.0** `██████████          ` 50%  
+  website overhaul&nbsp; » **v2.0** `                    ` 0%
