@@ -22,6 +22,6 @@
 - Minecraft server management & feature development
 
 #### *In active development*:
-  treasure-update » **v1.2.9** `████████████████████` 100%  
+  small-update&nbsp; &nbsp;  » **v1.2.10** `                    ` 0%  
   wiki (website)&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; » **v1.0** `██████████          ` 50%  
   website overhaul&nbsp; » **v2.0** `                    ` 0%
