@@ -23,6 +23,6 @@
 - Minecraft server management & feature development
 
 #### *In active development*:
-  profile-update&nbsp; &nbsp;» **v1.2.11** `█                   ` 5%  
+  profile-update&nbsp; &nbsp;» **v1.2.11** `██                  ` 10%  
   wiki (website)&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; » **v1.0** `██████████          ` 50%  
   website overhaul&nbsp; » **v2.0** `                    ` 0%
