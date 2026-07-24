@@ -5,7 +5,7 @@
 ## Interests & Work
 
 ### Data Analysis & Content Development @ [CI-Analytics](https://github.com/CI-Analytics)
-- Management tools & Data Analytics Software Development
+- Management & Data Analytics Software Development
 - Project Development
 - Marketing Engineering
 
