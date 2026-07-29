@@ -23,6 +23,6 @@
 - Minecraft server management & feature development
 
 #### *In active development*:
-  merchant-update&nbsp; » **v1.3** `                    ` 0%  
+  merchant-update&nbsp; » **v1.3** `██                  ` 10%  
   wiki (website)&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; » **v1.0** `██████████          ` 50%  
   website overhaul&nbsp; » **v2.0** `                    ` 0%
