@@ -15,7 +15,7 @@
   
   website &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;» **v1.0** `████████████        ` 60%  
   channelmanager » **v0.4** `██████████████████  ` 90%   
-  key-search&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; » **v0.1** `                    ` 0%    
+  key-search&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; » **v0.1** `████████████████████` 100%    
   server-stats &nbsp;&nbsp;» **v1.0-reb** `████████████████████` 100%  
 
 # 
