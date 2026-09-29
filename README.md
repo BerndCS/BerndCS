@@ -11,7 +11,7 @@
 
 #### *In active development*:
   CI-Servers&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;» **Gen2** `████                ` 20%   
-  CI-Software&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;» **Gen1** `██                  ` 10%  
+  CI-Software&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;» **Gen1** `███                 ` 15%  
   
   website &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;» **v1.0** `████████████        ` 60%  
   channelmanager » **v0.4** `██████████████████  ` 90%   
