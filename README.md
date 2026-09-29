@@ -10,7 +10,7 @@
 - Marketing Engineering
 
 #### *In active development*:
-  CI-Servers&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;» **Gen2** `████                ` 20%   
+  CI-Servers&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;» **Gen1** `████                ` 20%   
   CI-Software&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;» **Gen1** `███                 ` 15%  
   
   website &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;» **v1.0** `████████████        ` 60%  
