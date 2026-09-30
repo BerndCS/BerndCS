@@ -27,4 +27,4 @@
 #### *In active development*:
   small-update &nbsp; &nbsp;&nbsp;&nbsp;» **v1.3.3** `██████████          ` 50%  
   wiki (website)&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; » **v1.0** `██████████          ` 50%  
-  website overhaul&nbsp; » **v2.0** `                    ` 0%
+  website overhaul&nbsp; » **v2.0** `████████████        ` 60%
