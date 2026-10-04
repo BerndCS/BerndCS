@@ -25,6 +25,6 @@
 - Minecraft server management & feature development
 
 #### *In active development*:
-  small-update &nbsp; &nbsp;&nbsp;&nbsp;» **v1.3.4** `██████████████████  ` 90%  
+  small-update &nbsp; &nbsp;&nbsp;&nbsp;» **v1.3.4** `████████████████████` 100%  
   wiki (website)&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; » **v1.0** `██████████          ` 50%  
   website overhaul&nbsp; » **v2.0** `████████████        ` 60%
