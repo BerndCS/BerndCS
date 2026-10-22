@@ -25,6 +25,6 @@
 - Minecraft server management & feature development
 
 #### *In active development*:
-  halloween  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;» **v1.3.8** `                    ` 0%  
+  halloween  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;» **v1.3.8** `██                  ` 10%  
   wiki (website)&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; » **v1.0** `████████████████████` 100%  
   website overhaul&nbsp; » **v2.0** `████████████████████` 100%
