@@ -13,7 +13,7 @@
   CI-Servers&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;» **Gen1** `████                ` 20%   
   CI-Software&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;» **Gen1** `███                 ` 15%  
   
-  website &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;» **v1.0** `████████████        ` 60%  
+  website &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;» **v1.0** `████████████████████` 100%  
   channelmanager » **v0.4** `██████████████████  ` 90%   
   key-search&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; » **v0.1** `████████████████████` 100%    
   proj-workflow&nbsp; &nbsp; &nbsp; » **v1.0** `██████              ` 30%   
