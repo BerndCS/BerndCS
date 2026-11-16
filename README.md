@@ -12,10 +12,10 @@
 #### *In active development*:
   CI-Servers&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;» **Gen1** `████                ` 20%   
   CI-Software&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;» **Gen1** `███                 ` 15%  
-  
+
   website &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;» **v1.0** `████████████████████` 100%  
   channelmanager » **v0.4** `██████████████████  ` 90%   
-  key-search&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; » **v0.1** `████████████████████` 100%    
+  server-telemetry&nbsp;&nbsp;» **v1.0** `██                  ` 10%  
   proj-workflow&nbsp; &nbsp; &nbsp; » **v1.0** `██████              ` 30%   
   server-stats &nbsp;&nbsp;» **v1.0-reb** `████████████████████` 100%  
 
