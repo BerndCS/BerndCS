@@ -25,6 +25,7 @@
 - Minecraft server management & feature development
 
 #### *In active development*:
+  boom-world-map &nbsp;» **v1.0** `██                  ` 10%  
   boom-anti-cheat &nbsp;&nbsp;» **v1.0** `██████████          ` 50%  
   small-update &nbsp;&nbsp; &nbsp;» **v1.3.12** `                    ` 0%  
   wiki (website)&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; » **v1.0** `████████████████████` 100%  
